@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="Naomi.gif" width="300"/>
+  <img src="Naomi.gif" width="800"/>
 </p>
