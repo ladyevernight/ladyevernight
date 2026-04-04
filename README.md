@@ -6,7 +6,7 @@
  <div style="display:inline-block; text-align:left; font-size:9px;">
     <small><small>
     Hihi..!! I go by Sam or Vivi.<br>
-    I'm very avoidant so don't expect me to<br>
+    I'm very quiet so don't expect me to<br>
     initiate conversations... :P
     <small><small>
   </div>
