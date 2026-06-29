@@ -5,6 +5,6 @@
   <img src="tumblr.webp" width="130">
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d4oylex2yiuo6b67jfykie457e&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f"> </a>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d4oylex2yiuo6b67jfykie457e&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false"></a>
 </p>
 </p>
